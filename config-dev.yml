@@ -1,2 +1,6 @@
 config:
 info: "master branch,Springcloud-Config/config-dev.yml version=1"
+DB: Oracle
+IP: 192.168.1.26
+Port: 5488
+name: windchill
