@@ -1,5 +1,5 @@
 config:
-   info: "master branch,Springcloud-Config/config-dev.yml version=3"
+   info: "master branch,Springcloud-Config/config-dev.yml version=4"
    DB: postgre
    IP: 192.168.2.26
    Port: 8788
